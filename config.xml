@@ -6,10 +6,10 @@
 	version      ="1.0.0">
 	<!--versionCode is optional and Android only-->
 	
-	<name>Aplicacion dos celebracion de semana santa</name>
+	<name>Aplicacion tres volcan popocatepetl</name>
 	
 	<description>
-	    Aplicaciones que muestra la celebracion de semana santa
+	    Aplicaciones que muestra datos  del volcan popocatepetl
 		</description>
 		
 		<preference name="phonegap-version" value="3.1.0"/>
